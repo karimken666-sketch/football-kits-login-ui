@@ -15,7 +15,7 @@ A beginner front-end project built with HTML and CSS.
 - HTML5
 - CSS3
 - Flexbox
-- 
+
 ## Author
 
 Karim Ijaani
